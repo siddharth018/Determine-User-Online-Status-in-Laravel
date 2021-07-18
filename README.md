@@ -1,4 +1,4 @@
-## Laravel Model Observers Tutorial Example From Scratch
+## Determine User Online Status in Laravel
 
     Read More: https://therealprogrammer.com/determine-user-online-status-in-laravel/
 ## About
