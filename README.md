@@ -3,7 +3,7 @@
     Read More: https://therealprogrammer.com/determine-user-online-status-in-laravel/
 ## About
 
-<iframe src="https://giphy.com/embed/zrzwaJ3pqu1YHlNsxX" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zrzwaJ3pqu1YHlNsxX">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/zrzwaJ3pqu1YHlNsxX/giphy.gif" width="100%">
 
 First Step: download in your system.
 
