@@ -3,6 +3,8 @@
     Read More: https://therealprogrammer.com/determine-user-online-status-in-laravel/
 ## About
 
+<iframe src="https://giphy.com/embed/zrzwaJ3pqu1YHlNsxX" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zrzwaJ3pqu1YHlNsxX">via GIPHY</a></p>
+
 First Step: download in your system.
 
 git clone https://github.com/siddharth018/Determine-User-Online-Status-in-Laravel.git
